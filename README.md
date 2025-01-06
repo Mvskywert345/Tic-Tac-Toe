@@ -5,4 +5,4 @@ This is a simple console-based implementation of the classic Tic-Tac-Toe game in
 
 
 
-I created this project in my first year of college
+I created this project in my first year of college, you should also try it for fun
